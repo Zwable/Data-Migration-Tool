@@ -21,7 +21,7 @@ $BackupDomainUsersLoginWithinDays
 -Added a check to only export WLAN profiles when running on a psysical machine.
 
 1.11  
--Removed the parameter -NoAppSettings switch from the Start-UserStateMigrationTool function call in the Deploy-Application.ps1 script.
+-Removed the parameter -NoAppSettings switch from the Start-UserStateMigrationTool function call in the Deploy-Application.ps1 script.  
 -Removed the custom XML from the command line string in the Start-UserStateMigrationTool function located in the AppDeployToolkitExtensions.ps1
 
 1.1  
