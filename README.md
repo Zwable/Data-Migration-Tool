@@ -8,7 +8,7 @@ Recieving the USMT error 26, check volume size of the backup destination.
 
 Changes:
 1.14
--Changed variables from static to env: variable in the deployment script.
+-Changed variables from static to env: variable in the deployment script.  
 -Changed logic in when prompts are shown.
 -Changed branding.
 
