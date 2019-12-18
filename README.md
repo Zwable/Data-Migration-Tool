@@ -4,7 +4,7 @@ Recieving the USMT error 71 means that you have done something wrong with the fo
 Recieving the USMT error 37, don’t run this tool on a server you fool 😉  
 Recieving the USMT error 26, check volume size of the backup destination.
 
-Changes:
+Changes:  
 1.14  
 -Changed variables from static to env: variable in the deployment script.  
 -Changed logic in when prompts are shown.  
