@@ -7,6 +7,11 @@ Recieving the USMT error 37, don’t run this tool on a server you fool 😉
 Recieving the USMT error 26, check volume size of the backup destination.
 
 Changes:
+1.14
+-Changed variables from static to env: variable in the deployment script.
+-Changed logic in when prompts are shown.
+-Changed branding.
+
 1.13
 -Added the option to backup only domain users who has logged in within defined days. The variables to enable/configure this option is in the top of the Deploy-Application.ps1 script called:
 $BackupDomainUsersOnly
